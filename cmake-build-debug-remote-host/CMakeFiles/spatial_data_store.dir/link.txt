@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/spatial_data_store.dir/main.cpp.o  -o spatial_data_store  -lpqxx 

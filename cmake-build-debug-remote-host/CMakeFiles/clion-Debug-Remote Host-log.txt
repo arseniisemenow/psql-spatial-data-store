@@ -1,0 +1,7 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.2S9t9vjknZ -B /tmp/tmp.2S9t9vjknZ/cmake-build-debug-remote-host
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'libpqxx'
+--   Found libpqxx, version 6.4.5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.2S9t9vjknZ/cmake-build-debug-remote-host
